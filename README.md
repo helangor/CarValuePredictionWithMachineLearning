@@ -1,4 +1,4 @@
-# car_price_predictor
+Car Price Predictor
 
 Look powerpoint here for graphical and easy explanation about what I did.
 
